@@ -1,4 +1,4 @@
-# twitter_analysis
+# Twitter Sentiment Analysis
 
 1. twitter scrapping
 2. twitter modelling
